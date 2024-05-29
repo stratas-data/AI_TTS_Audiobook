@@ -1,4 +1,4 @@
-# AI_TTS_Audiobook
+# Speech and Audiobook Creation with TTS ML Models
 
 (!) Please note: this TTS machine-learning project used the LJSpeech dataset, which is available open-source online and would need to be downloaded, in order to replicate this data science project.
 
