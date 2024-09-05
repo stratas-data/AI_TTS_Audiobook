@@ -1,5 +1,7 @@
 # Text-to-Speech and Audiobook Creation with ML Models
 
+![Coqui TTS](https://raw.githubusercontent.com/coqui-ai/TTS/main/images/coqui-log-green-TTS.png)
+
 (!) Please note: this TTS machine-learning project used the LJSpeech dataset, which is available open-source online and would need to be downloaded, in order to replicate this data science project.
 
 ## Introduction
